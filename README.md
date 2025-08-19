@@ -1,4 +1,3 @@
-# Camel-Owl
 # CAMEL & OWL: Multi-Agent Frameworks
 
 This repository provides a brief introduction to two related multi-agent frameworks: **[CAMEL](https://github.com/camel-ai/camel)** and **[OWL](https://github.com/camel-ai/owl)**.
